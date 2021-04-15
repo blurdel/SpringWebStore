@@ -17,6 +17,8 @@
 				<p>All available products in our store</p>
 			</div>
 		</div>
+		<a href="<spring:url value="/" />" class="btn btn-default">Home</a>
+		<a href="<spring:url value="/products/add"/>" class="btn btn-warning btn-large">Add Product</a> 
 	</section>
 	
 	<section class="container">

@@ -15,7 +15,7 @@ public class InMemoryCustomerRepository implements CustomerRepository {
 	
 	
 	public InMemoryCustomerRepository() {
-		list.add(new Customer(1, "Zoey", "Doggy Heaven"));
+		list.add(new Customer(1, "Zoey", "Arlington VA"));
 		list.add(new Customer(2, "Tana", "Arlington, VA"));
 		list.add(new Customer(3, "Cami", "Alexandria, VA"));
 	}

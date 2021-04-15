@@ -18,6 +18,7 @@
 				<p>Add Products</p>
 			</div>
 		</div>
+		<a href="<spring:url value="/products" />" class="btn btn-default">Products</a>
 	</section>
 	
 	<div class="container">
